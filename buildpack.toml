@@ -1,7 +1,7 @@
 api = "0.2"
 
 [buildpack]
-id = "heroku/evergreen-java-system"
+id = "heroku/evergreen-java-system-function"
 name = "Evergreen Java System Function"
 version = "0.0.1"
 
